@@ -1,0 +1,1 @@
+sum = eval(input("please enter Zhal"))
